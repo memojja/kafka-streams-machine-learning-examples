@@ -83,8 +83,3 @@ Detailed info in [dl4j-deeplearning-iris](dl4j-deeplearning-iris/readme.md)
 ### Example 4 - Python + Keras + TensorFlow + DeepLearning4j
 
 Detailed info in [tensorflow-kerasm](tensorflow-keras/readme.md)
-
-
-
-
-
